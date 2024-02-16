@@ -1,0 +1,93 @@
+body{
+
+    background-color: rgb(221, 218, 218);
+}
+
+.form-container{
+
+    background-color: white;
+    width: 350px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.nike-logo{
+
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 45%;
+    /* margin-right: 50%; */
+}
+
+.center-txt{
+    /* margin-top: 50px; */
+    text-align: center;
+}
+
+p{
+
+    font-size: 9pt;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.inputs{
+
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1;
+    border-radius: 5px;
+}
+
+.country-drop{
+
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.trm-container{
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.chkbx{
+
+
+}
+
+.chkbx-lbl{
+
+    font-size: 9pt;
+
+    
+}
+
+.submit{
+
+    margin: 10px;
+    width: 250px;
+    height: 35px;
+
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1;
+    border-radius: 3px;
+    background-color: black;
+    color: aliceblue;
+}
