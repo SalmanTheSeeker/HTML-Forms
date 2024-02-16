@@ -1,1 +1,1 @@
-Simple HTML HTML Forms Example
+Simple HTML Forms Example
